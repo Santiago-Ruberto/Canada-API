@@ -1,0 +1,90 @@
+{
+	"info": {
+		"_postman_id": "dc097ae4-e2bc-4632-afdc-2769d34fde47",
+		"name": "Product",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "8059835"
+	},
+	"item": [
+		{
+			"name": "Scrap Data",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:3000/scrap",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"scrap"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Insert Data",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "localhost:3000/insert",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"insert"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get Data",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:3000/get?maxPrice=5",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"get"
+					],
+					"query": [
+						{
+							"key": "category",
+							"value": "clothing",
+							"disabled": true
+						},
+						{
+							"key": "size",
+							"value": "xs",
+							"disabled": true
+						},
+						{
+							"key": "color",
+							"value": "red",
+							"disabled": true
+						},
+						{
+							"key": "minPrice",
+							"value": "4",
+							"disabled": true
+						},
+						{
+							"key": "maxPrice",
+							"value": "5"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

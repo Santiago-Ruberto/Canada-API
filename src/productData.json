@@ -1,0 +1,32 @@
+{
+  "dafiti": [
+    {
+      "name": "Zapatilla Negra Prowess Colegial Velcro",
+      "link": "https://www.dafiti.com.ar/Zapatilla-Negra-Prowess-Colegial-Velcro-991428.html",
+      "photo": "https://static.dafiti.com.ar/images/1x1.gif",
+      "price": "4",
+      "description": "from Dafiti"
+    },
+    {
+      "name": "Zapatilla Blanca Jaguar 420",
+      "link": "https://www.dafiti.com.ar/Zapatilla-Blanca-Jaguar-420-943199.html",
+      "photo": "https://static.dafiti.com.ar/images/1x1.gif",
+      "price": "10",
+      "description": "from Dafiti"
+    },
+    {
+      "name": "Mochila Azul 47 Street 47 Basic",
+      "link": "https://www.dafiti.com.ar/Mochila-Azul-47-Street-47-Basic-985589.html",
+      "photo": "https://static.dafiti.com.ar/images/1x1.gif",
+      "price": "5",
+      "description": "from Dafiti"
+    },
+    {
+      "name": "Pantalón Azul Tricae",
+      "link": "https://www.dafiti.com.ar/Pantalon-Azul-Tricae-946945.html",
+      "photo": "https://static.dafiti.com.ar/p/tricae-4678-549649-1-catalog-new.jpg",
+      "price": "6",
+      "description": "from Dafiti"
+    }
+  ]
+}
